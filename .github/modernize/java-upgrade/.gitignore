@@ -1,0 +1,21 @@
+# Compilación Maven
+target/
+
+# Archivos compilados
+*.class
+
+# Configuración de IDEs
+.classpath
+.project
+.settings/
+
+# VS Code
+.vscode/
+
+# Archivos temporales
+*.log
+*.tmp
+
+# Archivos del sistema operativo
+.DS_Store
+Thumbs.db
